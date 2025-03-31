@@ -6,7 +6,7 @@ My name is Jean Luca Cariolato, I am 26 years old, and I am from Brazil. Current
 
 ---
 
-### Linguagens e Tecnologias
+### Technologies
 
 <img 
     align="left" 
@@ -61,7 +61,7 @@ My name is Jean Luca Cariolato, I am 26 years old, and I am from Brazil. Current
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 
