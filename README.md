@@ -60,16 +60,3 @@ My name is Jean Luca Cariolato, I am 26 years old, and I am from Brazil. Current
 
 <br/>
 <br/>
-
-### 📊 Statistics
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancariolato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
